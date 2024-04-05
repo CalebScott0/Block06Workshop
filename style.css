@@ -1,0 +1,53 @@
+
+
+h1 {
+    text-align: center;
+}
+table {
+    width: 70%;
+    height: 100%;
+}
+td {
+    width: 150px;
+    height: 100px;
+}
+section {
+    height: 150px;
+    width: 150px;
+    border: solid yellow 0px;
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 20px; 
+}
+#canned {
+    background-color: chartreuse;
+    padding-right: 50px;
+    padding-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+}
+
+#dry {
+    background-color: aquamarine;
+    margin-bottom: 30px;
+}
+
+img {
+    margin-bottom: 30px;
+    width: 150px;
+    height: 150px;
+    }
+#veg {
+    background-color: chartreuse;
+    padding-right: 50px;
+    padding-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+}
+
+#snacks {
+    background-color: aquamarine;
+    padding-right: 10px;
+    padding-left: 20px;
+    margin-bottom: 30px;
+}

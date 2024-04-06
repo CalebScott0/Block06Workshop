@@ -2,10 +2,10 @@ table {
     width: 70%;
     height: 100%;
     margin-top: -5%;
+    margin-left: 50px;
 }
 
 td {
-    width: 150px;
     height: 100px;
 }
 
@@ -31,47 +31,60 @@ h3 {
     font-family: sans-serif;
 }
 
+ol {
+    margin-right: -30px;
+}
+
 li {
     font-size: large;
     font-family: sans-serif;
 }
 
 img {
+    margin-top: 48px;
+    margin-left: -110px;
     margin-bottom: 30px;
-    margin-top: 30px;
-    width: 220px;
-    height: 180px
+    width: 286px;
+    height: 201px
 }
 
 #canned {
-    background-color: chartreuse;
-    padding-left: 35px;
-    padding-right: 65px;
-    padding-bottom: 30px;
-    margin-right: 20px;
+    border: solid grey 0.5px;
+    background-color:lemonchiffon;
+    padding-right: 90px;
+    padding-left: 45px;
+    padding-bottom: 50px;
+    margin-top: 15px;
+    margin-right: -75px;
 }
 
-#dry {
-    background-color: aquamarine;
-    padding-left: 35px;
-    padding-right: 65px;
-    padding-bottom: 30px;
+#dry {  
+    background-color:paleturquoise;
+    border: solid grey 0.5px;
+    padding-right: 90px;
+    padding-left: 45px;
+    padding-bottom: 50px;
+    margin-top: 15px;
 }
 
 #veg {
-    background-color: chartreuse;
-    padding-left: 35px;
-    padding-right: 65px;
-    padding-bottom: 30px;
-    margin-right: 20px;
+    background-color:lemonchiffon;
+    border: solid grey 0.5px;
+    padding-right: 90px;
+    padding-left: 45px;
+    padding-bottom: 50px;
+    margin-top: 15px;
+    margin-right: -75px;
   
-}
+}   
 
 #snacks {
-    background-color: aquamarine;
-    padding-left: 35px;
-    padding-right: 65px;    
-    padding-bottom: 30px;
+    background-color: paleturquoise;
+    border: solid grey 0.5px;
+    padding-right: 90px;
+    padding-left: 45px;
+    padding-bottom: 50px;
+    margin-top: 15px;
 }
 
 

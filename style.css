@@ -44,10 +44,10 @@ li {
 }
 
 img {
-    border: solid black 1px;
     margin-top: 48px;
     margin-left: -110px;
     margin-bottom: 30px;
+    padding: 5px;
     width: 286px;
     height: 201px
 }
